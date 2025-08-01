@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+dist
+.idea
+.vscode
+playwright-report
+test-results
+.cursor/rules/my-rules/
