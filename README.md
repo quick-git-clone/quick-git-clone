@@ -42,7 +42,7 @@ This app does all the heavy lifting in the background.
 
 This extension adds the "Clone & Open" button to GitHub.
 
-1.  **Install from the Chrome Web Store** (link coming soon!).
+1.  **[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/fmjmlppadaodmiggheabblelfjihdibi?utm_source=item-share-cb)**
 2.  Or, load it manually: download the source and load the `chrome-extension/dist` folder as an unpacked extension in `chrome://extensions/`.
 
 ## Requirements
