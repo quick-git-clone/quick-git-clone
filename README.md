@@ -34,8 +34,8 @@ Quick Git Clone consists of two parts: a macOS app and a Chrome extension. You'l
 
 This app does all the heavy lifting in the background.
 
-1.  **[Download the latest release](https://github.com/your-repo/quick-git-clone/releases)**.
-2.  Move **Quick Git Clone.app** to your **/Applications** folder.
+1.  **[Download the latest release](https://github.com/quick-git-clone/quick-git-clone/releases)**.
+2.  Copy **Quick Git Clone.app** to your **/Applications** folder.
 3.  Launch it once to get everything set up.
 
 ### 2. Chrome Extension
